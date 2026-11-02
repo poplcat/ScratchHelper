@@ -1,0 +1,1 @@
+# Add one PNG filename per line; upload the matching PNG into this folder.
